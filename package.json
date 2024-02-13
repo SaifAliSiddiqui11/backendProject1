@@ -1,0 +1,15 @@
+{
+  "name": "backendproject3",
+  "version": "1.0.0",
+  "description": "jai ho",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "salam",
+    "india"
+  ],
+  "author": "saif",
+  "license": "ISC"
+}
